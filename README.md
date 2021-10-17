@@ -1,7 +1,7 @@
 ### Olá, eu sou o Carlos, Desenvolvedor Full Stack 😎😉 !!!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/carloss-jr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carloss-jr&show_icons=true&theme=merko"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloss-jr&layout=compact&langs_count=7&theme=merko"/>
 </div>
@@ -38,13 +38,19 @@
 
 
 ## Projetos realizados :
-
-<a href="https://github.com/Carloss-Jr/API-Sistema-Soft-School-latest">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=API-Sistema-Soft-School-latest&theme=merko" />
-</a>
-<a href="https://github.com/Carloss-Jr/Reactive_Native">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Reactive_Native&theme=merko" />
-</a> <br>
-  <a href="https://github.com/Carloss-Jr/Desafio-Gama-1">
-    <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Desafio-Gama-1&theme=merko" />
+ 
+<div align="center">
+  <a href="https://github.com/Carloss-Jr/API-Sistema-Soft-School-latest">
+    <img  height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=API-Sistema-Soft-School-latest&theme=merko" />
   </a>
+  <a href="https://github.com/Carloss-Jr/Reactive_Native">
+    <img  height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Reactive_Native&theme=merko" />
+  </a> <br>
+  <a href="https://github.com/Carloss-Jr/Desafio-Gama-1">
+    <img  height="105" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Desafio-Gama-1&theme=merko" />
+  </a>
+  <a href="https://github.com/Carloss-Jr/Portfolio">
+    <img  height="105" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Portfolio&theme=merko" />
+  </a>
+  
+</div>
