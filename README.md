@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloss-jr&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloss-jr&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carloss-jr&show_icons=true&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloss-jr&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   #### Tecnologias que ja utilizei em projetos :
@@ -37,11 +37,14 @@
 
 
 
+## Projetos realizados :
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko" />
+<a href="https://github.com/Carloss-Jr/API-Sistema-Soft-School-latest">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=API-Sistema-Soft-School-latest&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=merko" />
-</a>
+<a href="https://github.com/Carloss-Jr/Reactive_Native">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Reactive_Native&theme=merko" />
+</a> <br>
+  <a href="https://github.com/Carloss-Jr/Desafio-Gama-1">
+    <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=carloss-jr&repo=Desafio-Gama-1&theme=merko" />
+  </a>
